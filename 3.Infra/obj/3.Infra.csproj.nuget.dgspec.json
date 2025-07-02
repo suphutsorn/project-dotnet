@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/suphutsorn/Desktop/project-dotnet/3.Infra/3.Infra.csproj": {}
+  },
+  "projects": {
+    "/Users/suphutsorn/Desktop/project-dotnet/1.Domain/1.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/suphutsorn/Desktop/project-dotnet/1.Domain/1.Domain.csproj",
+        "projectName": "1.Domain",
+        "projectPath": "/Users/suphutsorn/Desktop/project-dotnet/1.Domain/1.Domain.csproj",
+        "packagesPath": "/Users/suphutsorn/.nuget/packages/",
+        "outputPath": "/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/suphutsorn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/suphutsorn/Desktop/project-dotnet/2.Core/2.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/suphutsorn/Desktop/project-dotnet/2.Core/2.Core.csproj",
+        "projectName": "2.Core",
+        "projectPath": "/Users/suphutsorn/Desktop/project-dotnet/2.Core/2.Core.csproj",
+        "packagesPath": "/Users/suphutsorn/.nuget/packages/",
+        "outputPath": "/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/suphutsorn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/suphutsorn/Desktop/project-dotnet/1.Domain/1.Domain.csproj": {
+                "projectPath": "/Users/suphutsorn/Desktop/project-dotnet/1.Domain/1.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/suphutsorn/Desktop/project-dotnet/3.Infra/3.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/suphutsorn/Desktop/project-dotnet/3.Infra/3.Infra.csproj",
+        "projectName": "3.Infra",
+        "projectPath": "/Users/suphutsorn/Desktop/project-dotnet/3.Infra/3.Infra.csproj",
+        "packagesPath": "/Users/suphutsorn/.nuget/packages/",
+        "outputPath": "/Users/suphutsorn/Desktop/project-dotnet/3.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/suphutsorn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/suphutsorn/Desktop/project-dotnet/1.Domain/1.Domain.csproj": {
+                "projectPath": "/Users/suphutsorn/Desktop/project-dotnet/1.Domain/1.Domain.csproj"
+              },
+              "/Users/suphutsorn/Desktop/project-dotnet/2.Core/2.Core.csproj": {
+                "projectPath": "/Users/suphutsorn/Desktop/project-dotnet/2.Core/2.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

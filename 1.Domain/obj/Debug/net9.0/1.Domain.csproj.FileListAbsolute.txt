@@ -1,0 +1,12 @@
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/bin/Debug/net9.0/1.Domain.deps.json
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/bin/Debug/net9.0/1.Domain.dll
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/bin/Debug/net9.0/1.Domain.pdb
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/1.Domain.AssemblyInfoInputs.cache
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/1.Domain.AssemblyInfo.cs
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/1.Domain.csproj.CoreCompileInputs.cache
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/1.Domain.sourcelink.json
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/1.Domain.dll
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/refint/1.Domain.dll
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/1.Domain.pdb
+/Users/suphutsorn/Desktop/project-dotnet/1.Domain/obj/Debug/net9.0/ref/1.Domain.dll

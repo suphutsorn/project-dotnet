@@ -1,0 +1,16 @@
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/bin/Debug/net9.0/2.Core.deps.json
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/bin/Debug/net9.0/2.Core.dll
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/bin/Debug/net9.0/2.Core.pdb
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/bin/Debug/net9.0/1.Domain.dll
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/bin/Debug/net9.0/1.Domain.pdb
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.csproj.AssemblyReference.cache
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.AssemblyInfoInputs.cache
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.AssemblyInfo.cs
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.csproj.CoreCompileInputs.cache
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.sourcelink.json
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.csproj.Up2Date
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.dll
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/refint/2.Core.dll
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/2.Core.pdb
+/Users/suphutsorn/Desktop/project-dotnet/2.Core/obj/Debug/net9.0/ref/2.Core.dll

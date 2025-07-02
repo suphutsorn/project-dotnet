@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SssnXv+Z0hA=",
+  "success": true,
+  "projectFilePath": "/Users/suphutsorn/Desktop/project-dotnet/4.API/4.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/suphutsorn/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/suphutsorn/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
